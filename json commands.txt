@@ -1,0 +1,24 @@
+https://domoticgb.herokuapp.com/
+{"location":"salon","device":"persiana", "state":"subir","query":"cmd"}
+
+{"location":"salon","device":"persiana", "state":"bajar","query":"cmd"}
+
+{"location":"miguel","device":"persiana", "state":"subir","query":"cmd"}
+
+{"location":"miguel","device":"persiana", "state":"bajar","query":"cmd"}
+
+{"location":"diego","device":"persiana", "state":"subir","query":"cmd"}
+
+{"location":"diego","device":"persiana", "state":"bajar","query":"cmd"}
+
+{"location":"cocina","device":"persiana", "state":"subir","query":"cmd"}
+
+{"location":"cocina","device":"persiana", "state":"bajar","query":"cmd"}
+
+{"location":"dormitorio","device":"persiana", "state":"subir","query":"cmd"}
+
+{"location":"dormitorio","device":"persiana", "state":"bajar","query":"cmd"}
+
+
+{"location":"kitchen","device":"lights", "state":"off","query":"cmd"}
+
