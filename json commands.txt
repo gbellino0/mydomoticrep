@@ -1,4 +1,5 @@
 https://domoticgb.herokuapp.com/
+https://arduino-iftt-alexa-googlehome.herokuapp.com/
 {"location":"salon","device":"persiana", "state":"subir","query":"cmd"}
 
 {"location":"salon","device":"persiana", "state":"bajar","query":"cmd"}
